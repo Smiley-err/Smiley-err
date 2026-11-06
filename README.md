@@ -7,7 +7,7 @@ no autocomplete, no shortcuts, just a terminal and a compiler.
 - 📘 Working through [learncpp.com](https://learncpp.com) — modern C++, chapter by chapter
 - 🎮 Learning Godot 4 + GDScript to build games
 - 🐧 Running Arch + openSUSE (temporarily, as I will distro-hop) + Windows on one machine (rEFInd, UKI, the works)
-- 📐 Prepping for BUET EEE admission + BdMO / BDIO
+- 📐 Prepping for EEE in a prestigious university
 
 **Currently learning**
 `C++` · `GDScript` · `Linux internals` · `SQL (SQLite, PostgreSQL)`
