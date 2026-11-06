@@ -1,16 +1,19 @@
-## Hi there 👋
+### hey, I'm Smiley 👋
 
-<!--
-**Smiley-err/Smiley-err** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HSC-28 student in Dhaka, Bangladesh. Learning to build things from the ground up —
+no autocomplete, no shortcuts, just a terminal and a compiler.
 
-Here are some ideas to get you started:
+**What I'm working on**
+- 📘 Working through [learncpp.com](https://learncpp.com) — modern C++, chapter by chapter
+- 🎮 Learning Godot 4 + GDScript to build games
+- 🐧 Running Arch + openSUSE (temporarily, as I will distro-hop) + Windows on one machine (rEFInd, UKI, the works)
+- 📐 Prepping for BUET EEE admission + BdMO / BDIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning**
+`C++` · `GDScript` · `Linux internals` · `SQL (SQLite, PostgreSQL)`
+
+**Find me**
+- Email: smileydox@proton.me
+
+> Most of what's here is practice code, half-finished experiments, and things I
+> broke on purpose to understand them. That's the point.
